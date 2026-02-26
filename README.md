@@ -1,5 +1,5 @@
 # GeekerWan-Backup
-极客湾手机测评补档
+极客湾手机测评补档（存档链接集合）
 >请在issues中反馈（如链接失效），也可以补充链接。
 ---
 - 123pan:[https://www.123865.com/s/ro5Bvd-uQEpH?pwd=wzYG#]
