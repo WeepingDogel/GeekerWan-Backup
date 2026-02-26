@@ -4,6 +4,7 @@
 ---
 - 123pan:[https://www.123865.com/s/ro5Bvd-uQEpH?pwd=wzYG#]
 - Internet Archive:[https://archive.org/details/v-7-2026.02.26-12.01.58]
+- https://mega.nz/folder/QWUCSDpQ#YgqQO3A6OvNwTF8NLDofsQ
 ---
 原始（极客湾发布的网盘资源）校验值
 - MD5：`ea8cbea371c5f1d911eb72e266ed7b2a`
